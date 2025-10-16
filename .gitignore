@@ -38,3 +38,5 @@ docs/doxygen
 *.cache
 compile_commands.json
 **/*.unapproved.txt
+
+*~
